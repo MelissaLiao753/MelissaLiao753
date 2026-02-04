@@ -1,5 +1,6 @@
 # Melissa Liao
-*Hi*, I'm Melissa and I'm a 15-year-old who attends Western Springs College. [*Western Springs College.* ](https://westernsprings.school.nz/)
+*Hi*, I'm Melissa and I'm a 15-year-old who attends [*Western Springs College.* ](https://westernsprings.school.nz/) <br>
+![Western Springs College](image.png). <br>
 I enjoy reading, art. and learning new experiences. I'm open to feedback, driven, and passionate about creating. I'm interested in a job related to *biochemistry* or *art*.
 <!--
 **MelissaLiao753/MelissaLiao753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
