@@ -1,7 +1,9 @@
 # Melissa Liao
 *Hi*, I'm Melissa and I'm a 15-year-old who attends [*Western Springs College.* ](https://westernsprings.school.nz/) <br>
 ![Western Springs College](image.png). <br>
-I enjoy reading, art. and learning new experiences. I'm open to feedback, driven, and passionate about creating.<br>
+
+In my free time I enjoy reading books, doing art. and writing. I'm open to feedback, driven, and passionate about creating.<br>
+![Reading](images.jpg) <br>
 I'm interested in a job related to *biochemistry* or *art*.
 
 
