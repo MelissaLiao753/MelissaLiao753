@@ -1,7 +1,7 @@
 # Melissa Liao
 *Hi*, I'm Melissa and I'm a 15-year-old.
 In my free time I enjoy reading books, doing art. and writing. I'm open to feedback, driven, and passionate about creating.<br>
-I'm interested in a job related to *biochemistry* or *art*.<br>
+I'm interested in a job related to *biochemistry*, *digital media* or *art*.<br>
 <img src="images.jpg" alt="Reading" width="50px" height="50px"> <br>
 
 
